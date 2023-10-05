@@ -1,3 +1,3 @@
 # Pokedex
 
-Tämä on Pokedex-sivusto, joka on luotu käyttämällä HTML:ää, CSS:ää ja JavaScriptiä. Pokedex-sivusto toimii Pokemon-tietokantana ja tarjoaa tietoja eri Pokemoneista ensimmäisen sukupolven osalta.
+This is a Pokedex website created using HTML, CSS, and JavaScript. The Pokedex website serves as a Pokemon database and provides information about different Pokemon species from the first generation.
